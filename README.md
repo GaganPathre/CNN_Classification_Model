@@ -10,3 +10,5 @@ The images are stored in the "data.zip" with a separate folder for each. Feel fr
 Also I'm open for any suggestions or advice you'd like to give me.
 
 NOTE: THESE MODELS ARE STILL ON THE BABY STAGE. 
+
+https://huggingface.co/gaganpathre/amgerindaf
