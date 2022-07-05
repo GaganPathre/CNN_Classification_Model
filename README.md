@@ -9,6 +9,5 @@ While, on the African & Indian model "INDAF.h5", obtained 89% accuracy but this 
 The images are stored in the "data.zip" with a separate folder for each. Feel free to expand the dataset (I really need someone to give me the  DAAAATTTTAAAASSSSEEEEEEETTTTTTT...) 
 Also I'm open for any suggestions or advice you'd like to give me.
 
-NOTE: THESE MODELS ARE STILL ON THE BABY STAGE. 
-
+Try the HF model created on my own dataset:
 https://huggingface.co/gaganpathre/amgerindaf
